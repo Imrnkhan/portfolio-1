@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Derm from "../assets/Home Depot.web.jpeg"
+import Derm from "../assets/Home Depot.jpeg"
 const Card = () => {
   return (
     <motion.div
