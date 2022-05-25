@@ -24,7 +24,7 @@ const About = () => {
         <div>
           <motion.div>
             <h4 className="mt-12 text-3xl font-semibold text-blue-500">
-              A bit about me
+              About me
             </h4>
             <div style={{ display: "flex" }}>
 
