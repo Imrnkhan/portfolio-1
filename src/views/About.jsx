@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { techStack } from "../constants";
 import { ThemeContext } from "../themeProvider";
 import { motion } from "framer-motion";
-import profileimg from "../assets/1.jpeg"
+import profileimg from "../assets/Photos.png"
 
 const About = () => {
   const theme = useContext(ThemeContext);

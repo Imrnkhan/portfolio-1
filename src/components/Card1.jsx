@@ -65,7 +65,7 @@ const Card = () => {
                 <div
                     style={{ marginRight: "40px" }}
                     onClick={() => {
-                        const url = "https://github.com/anupamsukla/paytm-mall"
+                        const url = "https://github.com/haldaranup/paytm-mall-clone"
                         const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
                         if (newWindow) newWindow.opener = null
 

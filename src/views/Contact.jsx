@@ -89,7 +89,7 @@ const Contact = () => {
               </div>
               <div className="flex justify-between ">
                 <div className="underline">
-                  <a href="mailto:aakash.sh858791@gmail.com">
+                  <a href="mailto:Imrankhan7581@gmail.com">
                     Send me email directly
                   </a>
                 </div>
@@ -112,14 +112,14 @@ const Contact = () => {
               href="hello"
               className="mb-12 mt-4 font-semibold text-blue-700 block uppercase"
             >
-              anupamanand46@gmail.com
+              Imrankhan7581@gmail.com
             </a>
             <h1 className="text-3xl  font-bold">Address</h1>
             <a
               href="hello"
               className="mt-4  mb-12 md:text-right font-semibold text-blue-700 block uppercase"
             >
-              Vaishali Bihar,
+              Gurgaon Haryana,
               <br />
               India
             </a>
@@ -154,7 +154,7 @@ const Contact = () => {
       >
         Made with
         <div className="text-red-500 px-2 text-2xl">&#10084;</div>
-        by Anupam Anand
+        by Imran Khan
       </div>
     </div>
   );

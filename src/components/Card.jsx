@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Derm from "../assets/derm.png"
+import Derm from "../assets/Home Depot.web.jpeg"
 const Card = () => {
   return (
     <motion.div
@@ -22,11 +22,11 @@ const Card = () => {
       <div class="p-5">
         <a href="#">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            DermStore Clone
+            Home Depot
           </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          This website is among biggest distribution of medcine supply online
+          Th Home Depot is the largest Home improvement retailer in the united state,supplying tool.
         </p>
         <a href="#">
           <h1 class="mb-2 text-m font-bold tracking-tight text-gray-900 dark:text-white">
@@ -41,7 +41,7 @@ const Card = () => {
         <div
           style={{ marginRight: "40px" }}
           onClick={() => {
-            const url = "https://eager-roentgen-950e1d.netlify.app/"
+            const url = "https://the-home-depot.netlify.app/"
             const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
             if (newWindow) newWindow.opener = null
 
@@ -68,7 +68,7 @@ const Card = () => {
         <div
           style={{ marginRight: "40px" }}
           onClick={() => {
-            const url = "https://github.com/anupamsukla/dermClone"
+            const url = "https://github.com/Imrnkhan/homedepot"
             const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
             if (newWindow) newWindow.opener = null
 
