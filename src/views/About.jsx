@@ -36,7 +36,7 @@ const About = () => {
                     : "mt-4 text-xl text-justify text-white"
                 }
               >
-                I am a Full Stack Web Developer  . I love to take up on new
+                I am a Java Back-End Developer  . I love to take up on new
                 challenges and learn new skills. I like to interact with people,
                 exchanging ideas and spreading knowledge and positivity.
                 I take into consideration the user experience while writing reusable

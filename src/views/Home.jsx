@@ -57,8 +57,8 @@ const Home = () => {
                   : "mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               }
             >
-              I am a Front-End / Full-Stack Developer. I am currently looking for
-              opening as a Front-End Developer
+              I am a Front-End / Java Back-End Developer. I am currently looking for
+              opening as a Back-End Developer
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => {
@@ -91,7 +91,7 @@ const Home = () => {
             <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <div className="mt-3 sm:mt-0 cursor-pointer w-1/2">
                 <Link onClick={() => {
-                  const url = "https://drive.google.com/file/d/137kK5_nTpu7hXoaLAQYpsLLm4jpkw88X/view?usp=sharing"
+                  const url = "https://drive.google.com/file/d/1IHsHfl62QfjtA4uI9l2Sg70wjjv0ua5H/view?usp=sharing"
                   const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
                   if (newWindow) newWindow.opener = null
 
