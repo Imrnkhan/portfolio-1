@@ -91,7 +91,7 @@ const Home = () => {
             <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <div className="mt-3 sm:mt-0 cursor-pointer w-1/2">
                 <Link onClick={() => {
-                  const url = "https://drive.google.com/drive/u/0/folders/12MlJWX2c7AlK3OhQ2nH-W63q6z8k20jk"
+                  const url = "https://drive.google.com/file/d/137kK5_nTpu7hXoaLAQYpsLLm4jpkw88X/view?usp=sharing"
                   const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
                   if (newWindow) newWindow.opener = null
 
