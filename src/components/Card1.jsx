@@ -30,7 +30,7 @@ const Card = () => {
                 </p>
                 <a href="#">
                     <h1 class="mb-2 text-m font-bold tracking-tight text-gray-900 dark:text-white">
-                        Tech Stack : <span class="text-sm" >HTML, CSS , Advance JS, Bootstarp , mongoDB, Express JS</span>
+                        Tech Stack : <span class="text-sm" >HTML, CSS ,  Advance JS, Bootstarp , mongoDB, Express JS</span>
                     </h1>
                 </a>
 
